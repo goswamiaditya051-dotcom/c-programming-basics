@@ -22,4 +22,5 @@ I am currently learning programming fundamentals and improving my problem-solvin
 
 * C Language
 * VS Code
+* IntelliJ IDEA Community Edition 2025.2.4
 * Git & GitHub
